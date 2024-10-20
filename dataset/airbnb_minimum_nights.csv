@@ -1,0 +1,308 @@
+id,name1,host_id,host_name,neighbourhood_group,neighbourhood,latitude1,longitude1,room_type1,price1,target_minimum_nights,number_of_reviews1,reviews_per_month,calculated_host_listings_count,availability_365,
+12689769,Macleod,50848364,Kvadrat,,Banyule,-37.72527328,145.064768,Entire home/apt,226,1,33,1.05,1,251,1
+16303299,La Trobe Home,9881238,Simeon,,Banyule,-37.73807488,145.0401432,Entire home/apt,320,2,0,,1,0,1
+15274811,Luxurious Mansion Rosanna Heidelberg Ivanhoe 7 bds,4177728,Chris,,Banyule,-37.74489337,145.0593294,Entire home/apt,732,3,13,0.57,26,331,1
+20747759,"Heidelberg Haven - Gorgeous, near Rosanna, Ivanhoe",4177728,Chris,,Banyule,-37.75106468,145.0498922,Entire home/apt,453,3,7,0.49,26,357,1
+4533245,Luxury Leafy Home. 10k from Melb.,23367383,Georgia,,Banyule,-37.76434898,145.0668148,Entire home/apt,397,3,1,0.03,1,0,1
+9532518,Comfortable & Spacious Living: Bundoora,49378601,Jason,,Banyule,-37.70264558,145.0598115,Entire home/apt,180,3,34,0.93,1,153,1
+20093630,Modern Ivanhoe 2 Bedroom Apt Close to Everything,16266564,Leigh,,Banyule,-37.77264443,145.0459144,Entire home/apt,180,3,9,0.62,6,146,1
+2046410,Melbourne Villa,9522866,Vivian,,Banyule,-37.75632666,145.0629714,Entire home/apt,180,4,17,0.3,3,357,1
+14524995,Holiday Family Resort Home,79186485,Matthew,,Banyule,-37.76608224,145.0563912,Entire home/apt,651,5,1,0.09,1,234,1
+784043,4 Bedroom Melbourne Home & Garden,4133993,Kim,,Banyule,-37.73070795,145.0899522,Entire home/apt,550,5,1,0.14,1,363,1
+9974959,Huge brand new house,23476809,Amy,,Bayside,-37.90445339,145.0100534,Entire home/apt,800,1,0,,1,365,1
+19165293,Private room set in beautiful Las Cabanas,98731433,Birdhouse,,Bayside,-37.88896471,144.9973552,Private room,1384,2,0,,1,88,1
+4503385,Contemporary House Close to Beach and Cafes,12847809,Louise,,Bayside,-37.92228323,144.9899753,Entire home/apt,1150,4,22,0.54,2,63,1
+10479107,Contemporary home in Bayside,54012527,Julianne,,Bayside,-37.92781291,145.0021658,Entire home/apt,950,5,2,0.17,1,23,1
+16264129,"Resort style living in Hampton, Bayside",36487857,Katie,,Bayside,-37.93604017,145.0135315,Entire home/apt,880,5,9,0.38,1,347,1
+9063739,Large sunny beachside holiday home,22139379,James,,Bayside,-37.92270491,144.9913347,Entire home/apt,950,6,0,,1,0,1
+1233474,Sandringham Beach House opp beach,10260164,Fiona,,Bayside,-37.94996943,145.0027524,Entire home/apt,995,7,0,,1,165,1
+5280059,Bayside Designer Home ,23795774,Mandy,,Bayside,-37.91865715,145.0088107,Entire home/apt,850,7,4,0.09,1,347,1
+7922730,LUXICO - Beach Rd (Hampton),11914644,Luxico Holiday Homes,,Bayside,-37.93735233,144.9979892,Entire home/apt,849,7,1,0.03,73,0,1
+15045006,Seaview Brighton,22472013,Julie,,Bayside,-37.93072987,144.9930778,Entire home/apt,800,14,0,,1,62,1
+6887324,LUXICO - Kinkora (Hawthorn),11914644,Luxico Holiday Homes,,Boroondara,-37.81585636,145.0291293,Entire home/apt,1955,5,0,,73,44,1
+8892884,Victorian mansion with luxury space,46525232,James,,Boroondara,-37.83021677,145.0595156,Entire home/apt,959,5,42,1.12,1,343,1
+15568587,LUXICO - Malling Grove,11914644,Luxico Holiday Homes,,Boroondara,-37.82621629,145.0438009,Entire home/apt,1881,7,0,,73,364,1
+7922878,LUXICO - Robinson Road (Hawthorn),11914644,Luxico Holiday Homes,,Boroondara,-37.83209411,145.0415588,Entire home/apt,1717,7,0,,73,358,1
+7939549,LUXICO - Linden (Camberwell),11914644,Luxico Holiday Homes,,Boroondara,-37.82467497,145.0657099,Entire home/apt,1449,7,1,0.32,73,346,1
+7922560,LUXICO - Averi Penthouse (Hawthorn),11914644,Luxico Holiday Homes,,Boroondara,-37.84050999,145.0518225,Entire home/apt,1304,7,0,,73,0,1
+4122275,LUXICO - Mason St (Hawthorn),11914644,Luxico Holiday Homes,,Boroondara,-37.81690208,145.017946,Entire home/apt,1200,7,0,,73,63,1
+11894742,LUXICO - Churchill Grove,11914644,Luxico Holiday Homes,,Boroondara,-37.81551921,145.0377429,Entire home/apt,1049,7,0,,73,0,1
+15290802,Luxury Architectural Residence (Hawthorn),4945813,Katherine,,Boroondara,-37.8159154,145.0281529,Entire home/apt,1200,10,2,0.08,2,295,1
+16181637,Nice accommodation in Kew east,105660264,Jiahong,,Boroondara,-37.78566031,145.0620135,Private room,8000,365,1,0.11,1,0,1
+16419531,Best West of Melbourne Whole house,1533260,Ryan,,Brimbank,-37.78418831,144.7564422,Entire home/apt,300,1,0,,9,19,1
+19753391,Chic 2 Bedroom Keilor,32993431,Fran,,Brimbank,-37.72037762,144.8091707,Entire home/apt,150,1,25,1.49,1,299,1
+21113337,Last minute requirement for grand final,30432354,Aisha,,Brimbank,-37.79725801,144.8136482,Private room,150,1,1,0.07,1,0,1
+5338463,Spirit of Place,27664712,Heather,,Brimbank,-37.7178098,144.769519,Private room,150,1,0,,1,365,1
+10365546,5 stars accommodation,53348856,Ref,,Brimbank,-37.71018617,144.7734414,Private room,137,1,0,,1,365,1
+7065799,"VILLA ROWAN - MELBOURNE  Spacious, Close to CBD",15651267,Serviced Houses Australia,,Brimbank,-37.72960842,144.8238856,Entire home/apt,255,2,8,0.21,26,348,1
+7167842,"VILLA MONARMA- MELBOURNE, Sleeps 9",15651267,Serviced Houses Australia,,Brimbank,-37.73061209,144.8261625,Entire home/apt,245,2,3,0.17,26,357,1
+17655789,Santa Monica Lodge Taylors Lakes,30691963,Tony,,Brimbank,-37.7018563,144.8077771,Entire home/apt,190,2,27,1.69,1,258,1
+15100900,Classic Charmer 10km from CBD,72068327,Milos,,Brimbank,-37.78906543,144.8449228,Entire home/apt,145,2,47,1.83,1,235,1
+19233615,5 bedroom Melbourne Retreat,134657381,Cameron,,Brimbank,-37.70722109,144.8157333,Entire home/apt,750,4,6,0.48,1,354,1
+9237608,Jinks Creek Artist's Retreat,18169299,Abi,,Cardinia,-38.00569689,145.7084588,Entire home/apt,599,1,6,0.21,2,365,1
+11554915,Luxury Farmstay in Rural Victoria,61013515,Jane,,Cardinia,-38.01602769,145.6993772,Entire home/apt,599,1,5,0.15,1,347,1
+10247265,"Gembrook, Tranquil farm cottage",4407930,Lisa,,Cardinia,-37.93653581,145.5539108,Entire home/apt,375,1,33,1.29,1,286,1
+4503078,"Horse farm, wildlife,",11701845,Brent,,Cardinia,-37.9360248,145.4615376,Entire home/apt,345,1,50,1.09,1,322,1
+14747116,Bessie Creek Retreat,69930540,Natalie,,Cardinia,-38.04087383,145.5640538,Entire home/apt,325,1,31,2.4,1,105,1
+5470169,Jacob's Estate | Farmstead on 50 Acres,28372322,Shami,,Cardinia,-38.14835242,145.4366759,Entire home/apt,300,1,71,1.6,1,220,1
+3605516,Jinks Creek Cottage,18169299,Abi,,Cardinia,-38.02849029,145.7229381,Entire home/apt,300,1,9,0.25,2,364,1
+10681693,Yuulong Bed & Breakfast,55177580,Lis,,Cardinia,-38.01253971,145.4324693,Entire home/apt,300,1,1,0.13,1,365,1
+17798458,Peaceful rainforest retreat in secluded paradise,121623216,Manuel,,Cardinia,-37.9506747,145.5087456,Entire home/apt,419,2,32,1.64,1,230,1
+8226675,2 storey home with wonderful views,35544155,Tony,,Cardinia,-38.0266839,145.4416015,Entire home/apt,400,7,0,,1,0,1
+12395944,It's a house with an artistic breat,35717651,Ezra,,Casey,-38.00004476,145.30898,Entire home/apt,689,1,0,,1,365,1
+20096457,London Park Resort(D),51643091,London Park Resort,,Casey,-37.99711593,145.311652,Entire home/apt,400,1,3,0.19,4,141,1
+15751315,Luxury 5-Star Family Retreat - Parks & Playgrounds,10865398,Shayne & Jenny,,Casey,-38.07736976,145.344602,Entire home/apt,368,1,38,1.91,4,328,1
+21586755,Federation Charm,39009271,Aimee,,Casey,-38.00663423,145.3234427,Private room,251,1,12,0.96,1,364,1
+18226723,home away from home in south east,3773492,Kartik,,Casey,-38.04826332,145.2999553,Entire home/apt,1101,2,1,0.09,2,179,1
+15773640,Beautiful Large Modern Home,94537021,Sim,,Casey,-38.0142414,145.2925335,Entire home/apt,550,2,3,0.14,2,365,1
+10093285,London park holiday house(B),51643091,London Park Resort,,Casey,-37.99928488,145.3105323,Entire home/apt,400,2,14,0.39,4,141,1
+14361868,London Park Holiday House(C),51643091,London Park Resort,,Casey,-37.99680744,145.311511,Entire home/apt,400,2,12,0.46,4,53,1
+10063670,London Park Holiday House(A),51643091,London Park Resort,,Casey,-37.99892171,145.309705,Entire home/apt,300,2,9,0.27,4,320,1
+21550412,Beautiful 5 bedroom Cosy home!,94537021,Sim,,Casey,-38.060106,145.3180326,Entire home/apt,300,3,4,0.33,2,155,1
+23793199,The Lodge - 16 Rooms,178544267,Bell City,,Darebin,-37.74576662,145.0085826,Private room,1600,1,0,,3,346,1
+7810344,ST .GEORGES MOTORINN,41118188,Michael,,Darebin,-37.75942836,144.9947569,Private room,379,1,0,,1,365,1
+3605555,Melbourne inner city home,4284236,Michael,,Darebin,-37.77901382,145.0235602,Private room,400,2,17,0.34,1,364,1
+4622909,Awesome church conversion cityviews,22930747,Kevin,,Darebin,-37.77500231,144.9976232,Entire home/apt,350,2,119,2.45,1,106,1
+12736588,Friendly sharehouse in vibrant area,47493458,Julian,,Darebin,-37.75791616,145.0064784,Private room,2500,3,0,,1,0,1
+18198433,Contemporary Family Home in the Heart of Fairfield,125609519,Phillip,,Darebin,-37.78134153,145.0182425,Entire home/apt,350,3,41,2.07,2,158,1
+29473232,Modern and Spacious 1 bdrm townhouse in Northcote,1940812,Jamie,,Darebin,-37.77106438,145.0091938,Entire home/apt,395,4,0,,1,11,1
+21069824,Modern courtyard house,14874628,Tanya,,Darebin,-37.77955343,145.0046629,Entire home/apt,350,4,1,0.09,1,85,1
+12719024,"Tidy, pet friendly on request",69151339,Shae,,Darebin,-37.72488869,144.9973072,Entire home/apt,12624,10,1,0.03,1,0,1
+10386546,Victorian Home with Yoga Studio,13075376,Tara,,Darebin,-37.76358422,144.9977955,Entire home/apt,750,10,0,,2,0,1
+15416357,Isle of Serenity on Long Island Dream House,47934920,Yiqian,,Frankston,-38.13403089,145.1218132,Entire home/apt,400,1,30,1.15,4,341,1
+997517,Kanturk Country Retreat hideaway,5247469,Sally (And Gary),,Frankston,-38.18977395,145.2091043,Private room,1250,2,17,0.28,4,336,1
+15860124,Beachfront Luxury On The Mornington Peninsula,5764922,Christine,,Frankston,-38.13119646,145.1235013,Entire home/apt,999,2,8,0.32,1,65,1
+15889927,Holiday Shacks - Anchor Beachfront Retreat,24814727,Andrea,,Frankston,-38.13809324,145.1211008,Entire home/apt,940,2,2,0.14,2,332,1
+15790675,Davey's Bay Retreat,41668222,Mornington Peninsula Holiday Accomm,,Frankston,-38.16275673,145.1014509,Entire home/apt,800,2,5,0.22,3,91,1
+15789612,Colin Hyett By Design,41668222,Mornington Peninsula Holiday Accomm,,Frankston,-38.18226677,145.1778182,Entire home/apt,500,2,3,0.17,3,168,1
+4711401,Beach House on beautiful Longisland,23361245,Nic,,Frankston,-38.137592,145.1208063,Entire home/apt,450,2,16,0.33,2,343,1
+3752438,Award Winning Beach Front Villa,19144074,"Zhao, Graeme & Ivana",,Frankston,-38.14219907,145.1207876,Entire home/apt,350,2,21,0.42,1,330,1
+16456660,Beachfrontage - Long Island Luxury with Beach Box,37195672,Andrew From Allocate,,Frankston,-38.1375528,145.1218214,Entire home/apt,1040,3,1,0.04,1,352,1
+9619551,Private resort living,49767054,Rachael-Anne,,Frankston,-38.18863482,145.1262237,Entire home/apt,498,7,0,,1,0,1
+21072793,Newly renovated Victorian home,17530392,Aleisha,,Glen Eira,-37.88290053,145.0011793,Entire home/apt,490,2,1,0.07,1,0,1
+10121508,"Edwardian charm, Resort living",51626956,Peter,,Glen Eira,-37.91433698,145.0295232,Entire home/apt,450,2,36,1.05,1,339,1
+248235,HUGE newly renovated home with pool,1300846,Ayelet,,Glen Eira,-37.86392244,145.0173674,Entire home/apt,419,4,8,0.11,1,90,1
+6239913,Amazing Inner City Designer Home,22740218,Jeremy,,Glen Eira,-37.87228887,145.0178465,Entire home/apt,980,5,0,,1,0,1
+20058698,"Boutique Stays - Caulfield Central, Pet Friendly Home",760849,Boutique Stays Accommodation Group,,Glen Eira,-37.88926691,145.0284787,Entire home/apt,465,5,3,0.23,55,352,1
+6170604,McKinnon - Parkside Luxury living - Family Home,3375986,Lee,,Glen Eira,-37.90883135,145.0320471,Entire home/apt,400,5,6,0.26,1,356,1
+16785794,5 Bedroom Luxury Living,10736311,Steve,,Glen Eira,-37.90106096,145.0386207,Entire home/apt,975,7,4,0.2,1,156,1
+20701900,Modern Family Living in a Period Home,46265010,Eric,,Glen Eira,-37.88591494,145.0048203,Entire home/apt,598,7,2,0.17,1,240,1
+3105366,"3 Bedroom 3.5 bathrm, Art Deco Home",9173051,Christine,,Glen Eira,-37.89583212,145.0145946,Entire home/apt,400,7,2,0.14,5,294,1
+5205158,"""Maison de Fleurs"" built in 1885.",6340623,Bernadette,,Glen Eira,-37.88549501,145.0141633,Entire home/apt,400,7,1,0.04,1,6,1
+28995785,SPRINGVALE LUXURY HOME,97610051,Ha,,Greater Dandenong,-37.93804337,145.1603798,Entire home/apt,354,1,0,,1,251,1
+19701538,Waltzing Matilda Apartment,138809348,Waltzing,,Greater Dandenong,-37.96337663,145.1498923,Private room,239,1,0,,1,337,1
+11303220,Lake View Private Villa-Chelsea Beach,59071825,Sisly,,Greater Dandenong,-38.04321762,145.1515985,Entire home/apt,3000,2,2,0.09,1,221,1
+7468159,Executive 4 Bedroom Townhouse with Stunning view,39093981,Don,,Greater Dandenong,-37.99279259,145.204644,Entire home/apt,280,3,7,0.44,5,205,1
+7463312,Executive 4 Bedroom Townhouse with Stunning view,39093981,Don,,Greater Dandenong,-37.99188778,145.2030847,Entire home/apt,280,3,2,0.05,5,205,1
+8412000,Stunning view - 3 Bedroom Townhouse,39093981,Don,,Greater Dandenong,-37.99226859,145.2028545,Entire home/apt,235,3,3,0.19,5,201,1
+10127951,Stunning view - 3 Bedroom Townhouse,39093981,Don,,Greater Dandenong,-37.99168851,145.203059,Entire home/apt,235,3,2,0.08,5,201,1
+21326190,City Edge - stunning three bedroom apartment #2,142352571,Kenny,,Greater Dandenong,-37.98681348,145.2116341,Entire home/apt,280,7,1,0.09,6,364,1
+21382790,City Edge - stunning three bedroom apartment #4,142352571,Kenny,,Greater Dandenong,-37.98759081,145.2118695,Entire home/apt,280,7,1,0.09,6,364,1
+21489052,City Edge - stunning two bedroom apartment #8,142352571,Kenny,,Greater Dandenong,-37.98821437,145.2116022,Entire home/apt,228,7,2,0.16,6,364,1
+11759113,"Relaxed, Convenient Home",19719080,Mark,,Hobsons Bay,-37.87841238,144.7554465,Private room,999,1,3,0.09,1,365,1
+6390245,Stylish  Family Home with pool,33313740,Ken,,Hobsons Bay,-37.85678553,144.8804942,Entire home/apt,375,1,0,,1,0,1
+16289936,Magnolia House,106564535,Magnolia House,,Hobsons Bay,-37.84539074,144.8860594,Entire home/apt,599,2,9,0.39,1,354,1
+17611136,Splendid family or couple Oasis,90853475,Amy,,Hobsons Bay,-37.88361602,144.7721493,Entire home/apt,350,2,5,0.46,1,0,1
+17096486,ALTONA BEACHSIDE HOME,61858406,Shelley,,Hobsons Bay,-37.86191789,144.8242708,Entire home/apt,251,2,7,0.32,1,165,1
+29264489,Quality Melbourne home,31335985,Hanh,,Hobsons Bay,-37.87995837,144.7726263,Entire home/apt,251,2,0,,1,71,1
+16492398,Spacious 3 BR Home in the heart of Williamstown,32790903,Sally,,Hobsons Bay,-37.86355342,144.904583,Entire home/apt,345,3,3,0.17,6,84,1
+7937376,Victorian Villa by the Sea,9299376,Matthew,,Hobsons Bay,-37.85224508,144.8969282,Entire home/apt,350,4,0,,1,0,1
+18215848,Site so bright Williamstown Beach townhouse,119212363,Adriana,,Hobsons Bay,-37.87022782,144.9026063,Entire home/apt,260,4,0,,1,87,1
+6871479,Family Home 7km to CBD,10918327,Nat,,Hobsons Bay,-37.84429013,144.8783564,Entire home/apt,260,5,7,0.18,1,25,1
+5363839,Animal Land Settlers Run,27805462,Laurie,,Hume,-37.63028871,144.7465024,Entire home/apt,379,1,5,0.12,4,363,1
+17610060,Shearers Qtrs. Great for famalies,27805462,Laurie,,Hume,-37.62999827,144.7465428,Entire home/apt,300,1,3,0.35,4,89,1
+16021817,Iron Bark Room. Melbourne farm stay,27805462,Laurie,,Hume,-37.63009899,144.744957,Private room,289,1,0,,4,89,1
+20682528,Sunbury Ranch,148011522,Jason,,Hume,-37.51921672,144.7023264,Entire home/apt,700,2,9,0.79,1,331,1
+5364275,"Melbourne Farm Stay, Signature Room",27805462,Laurie,,Hume,-37.62864683,144.7471012,Entire home/apt,440,2,1,0.42,4,88,1
+6789100,"ATTWOOD LODGE - MELBOURNE AIRPORT 5BDRM, Wifi",15651267,Serviced Houses Australia,,Hume,-37.66871035,144.8904666,Entire home/apt,281,2,6,0.17,26,326,1
+20398115,BULLA HILL 2 MELBOURNE - COMFORT & GREAT VIEWS,15651267,Serviced Houses Australia,,Hume,-37.63173048,144.7975187,Entire home/apt,281,2,6,0.6,26,344,1
+7012134,"BRADFORD PLACE 1 - 20min to CBD, 4B",15651267,Serviced Houses Australia,,Hume,-37.69378206,144.8853509,Entire home/apt,280,2,12,0.33,26,337,1
+16167793,"BRADFORD PLACE 2 - 20min to CBD, 4 Bdrms",15651267,Serviced Houses Australia,,Hume,-37.69289739,144.8873822,Entire home/apt,280,2,9,0.46,26,343,1
+20868686,Modern designer styled home with pool,62340543,Alicia,,Hume,-37.56912212,144.6985533,Entire home/apt,350,5,0,,1,85,1
+29546385,Three Bedroom Apartment - Quest Moorabbin,222448922,Quest,,Kingston,-37.95362059,145.0796468,Entire home/apt,399,1,0,,10,220,1
+18829301,Ocean Reef Resort,130553406,Claudia,,Kingston,-38.07792452,145.1444592,Entire home/apt,350,2,3,0.26,1,233,1
+21601486,Waterfront Retreat,36561777,Tina Frank,,Kingston,-38.07405283,145.1405875,Entire home/apt,339,2,9,0.69,1,153,1
+11460227,3 Bedroom Absolute Beachfront,51483850,Esther,,Kingston,-38.05279915,145.1136436,Entire home/apt,350,3,40,1.2,1,73,1
+17572977,Outdoor Family Lifestyle,93967137,Petrina & Rod,,Kingston,-37.96504852,145.0656493,Entire home/apt,350,3,4,0.28,1,8,1
+19058703,Beachside Apartments Bonbeach,59833593,Susan,,Kingston,-38.06358979,145.1176123,Entire home/apt,341,3,0,,1,352,1
+10476673,World Cup Golf Home,31713704,Steve,,Kingston,-37.95419926,145.0841326,Entire home/apt,2007,7,0,,1,0,1
+10887331,"Light-filled, spacious family home in Bayside.",56417708,Tanya,,Kingston,-37.9714981,145.0580954,Entire home/apt,350,7,1,0.04,1,19,1
+10949832,This is what holidays are about...,56788089,Kristy,,Kingston,-37.9850085,145.0555178,Entire home/apt,820,10,0,,1,349,1
+10714624,Seaside Family Retreat,52246240,Gale,,Kingston,-38.07855221,145.1218259,Entire home/apt,850,14,0,,1,0,1
+20906298,Incredible nice house,31183088,Shushu,,Knox,-37.88260936,145.233525,Entire home/apt,280,1,4,0.3,1,0,1
+19393817,Big and lovely house in Wantirna South,94451762,Leo,,Knox,-37.87801319,145.2399309,Entire home/apt,248,1,14,1.02,3,149,1
+18915757,Ferntree Gully Hotel Apartment,131838451,Ferntree Gully,,Knox,-37.89074938,145.2981152,Private room,210,1,3,0.17,1,322,1
+13378393,Living in the Suburbs,76020383,J. Elizabeth,,Knox,-37.87367939,145.2527219,Private room,208,1,0,,1,89,1
+18765799,New renovated 5 BR beautiful Entire house,96256684,Kelly,,Knox,-37.87209559,145.2612553,Entire home/apt,188,1,44,2.4,2,90,1
+13985421,The Romantic Cottage in the Windy Garden,83259522,Hoa&Van,,Knox,-37.88163322,145.3021383,Entire home/apt,186,1,94,3.43,1,83,1
+23778072,Modern living 3BR sunny home + Off Eastlink + WIFI,141692146,Alice,,Knox,-37.8898448,145.2211281,Entire home/apt,174,1,38,4.85,1,49,1
+8583609,Testing website!,45108779,Travis,,Knox,-37.88798444,145.2433453,Private room,2000,2,0,,1,365,1
+17589769,BIG Home,119505103,Swapnil,,Knox,-37.85188988,145.275093,Private room,316,2,3,0.14,1,0,1
+18543297,Heavenly Retreat with Magical Nature,125783648,Nadia,,Knox,-37.85515099,145.3380876,Entire home/apt,170,2,11,0.64,1,300,1
+29582547,Luxury Secluded Retreat - Country in the City!,222689963,Tim,,Manningham,-37.77698539,145.1975763,Entire home/apt,599,1,3,3,1,315,1
+10595314,Pride Leisure Garden House-5 rooms,7044292,Malcom,,Manningham,-37.78688865,145.2072239,Entire home/apt,450,1,18,0.63,3,281,1
+29582260,Amazing Family Resort on Warrandyte -Yarra Valley,14392834,Lusi,,Manningham,-37.74633328,145.1902659,Entire home/apt,820,2,0,,1,156,1
+19596174,Amazingly nice rooms in central location,94455678,QianYu,,Manningham,-37.78896423,145.10583,Entire home/apt,399,2,30,1.78,1,337,1
+10595535,Pride Leisure Garden House near Yarra wine region,7044292,Malcom,,Manningham,-37.78678257,145.206011,Entire home/apt,379,2,22,0.64,3,348,1
+21461243,Live like a local in Melbourne! 6 Brs fits 16 ppl!,9571666,Jessica,,Manningham,-37.76995711,145.1114829,Entire home/apt,300,2,46,4.48,1,102,1
+21505897,Yarra Valley Gateway residence,26149499,Rachael,,Manningham,-37.7344356,145.2302656,Entire home/apt,3400,3,0,,1,179,1
+17193228,Stunning private hideaway,46258110,Ineka,,Manningham,-37.80209692,145.1932429,Entire home/apt,385,3,0,,1,0,1
+5155933,"Stunning 4 bedroom house, pool. Like a 5* Hotel",23546535,Natasha,,Manningham,-37.79140959,145.1057059,Entire home/apt,379,4,6,0.14,1,23,1
+6784223,Morning Brae - tranquil mansion...,10937294,Julie,,Manningham,-37.74308153,145.2582574,Entire home/apt,800,28,1,0.03,1,363,1
+16619977,Bungalow,56438391,Merry,,Maribyrnong,-37.81217952,144.8757279,Private room,500,1,0,,1,180,1
+21205009,Amazing Home in Yarraville's Best Location!,12275649,Dayna,,Maribyrnong,-37.81759281,144.8896953,Entire home/apt,300,1,7,0.56,2,361,1
+14269550,Luxury home in iconic Yarraville.,47281482,Rebecca,,Maribyrnong,-37.81241645,144.8866309,Entire home/apt,500,2,11,0.47,1,309,1
+17515357,A Grand Mansion- 4 bathrooms near CBD with Parking,2078748,Brenda,,Maribyrnong,-37.8145817,144.8914482,Entire home/apt,480,2,14,0.93,3,256,1
+21388364,6 BR Modern Edwardian Mansion,154927899,Luyen,,Maribyrnong,-37.79403215,144.9023507,Entire home/apt,396,2,52,3.92,1,314,1
+2178434,Stay Belgravia 9 bedroom House,11111107,Kelly,,Maribyrnong,-37.80711906,144.9004573,Entire home/apt,795,3,59,1.01,2,301,1
+6425313,Stay Belgravia  -Lime Tree House  6 bedrooms,11111107,Kelly,,Maribyrnong,-37.79967473,144.9045101,Entire home/apt,480,3,61,1.44,2,276,1
+17261424,"Maribyrnong River ""Edgewater"" - Luxury Family Home",112610314,Marja,,Maribyrnong,-37.78662099,144.8995369,Entire home/apt,370,3,3,0.2,1,365,1
+19648696,Fantastic Family Home Inner West 4BR+2bath+Netflix,35516057,Jackie,,Maribyrnong,-37.78229235,144.8812233,Entire home/apt,300,3,50,2.91,1,154,1
+29016046,Beautiful Mid-Century home 7km from CBD,5647074,Marty,,Maribyrnong,-37.80940612,144.8703249,Entire home/apt,379,10,0,,1,19,1
+2982188,B & B Mt Dandenong Yarra Ranges,15209825,Kaye,,Maroondah,-37.82740631,145.3132634,Private room,289,1,5,0.15,1,355,1
+6627623,Excellent location lots of space,34690738,Farideh,,Maroondah,-37.80777758,145.2468454,Private room,239,1,0,,1,365,1
+14185108,"Spacious& Cosy home, convenient to everything",81772437,Amy,,Maroondah,-37.81968155,145.2368264,Entire home/apt,288,2,63,2.2,2,303,1
+16010330,Modern New 3 bedrooms plus study Townhouse,50409774,Michele & Lung,,Maroondah,-37.82216132,145.2498606,Entire home/apt,235,2,58,2.35,2,203,1
+19767938,Remarkable 4 Bedroom Home in Ringwood,112530913,Fiona And Mark,,Maroondah,-37.81717339,145.2350518,Entire home/apt,237,3,36,2.14,1,217,1
+4049460,"Suburban charm, great location",20998360,Mervyn,,Maroondah,-37.82443537,145.2312677,Entire home/apt,235,3,33,0.65,1,354,1
+15526019,Best Guesthouse,99833533,Dennis,,Maroondah,-37.81234876,145.2540743,Entire home/apt,199,3,20,0.82,3,0,1
+7778195,The Houses Yarra Valley: Maroondah 3 Bedroom,40571613,Cindy,,Maroondah,-37.80188284,145.306725,Entire home/apt,251,4,18,0.47,1,356,1
+30518724,4 bedroom home with solar heated fenced pool,59690506,Stephanie,,Maroondah,-37.78777825,145.2526667,Entire home/apt,300,7,0,,1,17,1
+10368339,Family home in great Melb location.,37212153,Jessica,,Maroondah,-37.80027568,145.2452694,Entire home/apt,289,7,1,0.04,1,363,1
+16534504,CBD Sky view 3BR/2BA Apt Free Park/Free Tram Zone,26605877,Karen,,Melbourne,-37.81545582,144.9548981,Entire home/apt,2171,1,141,6.57,5,13,1
+21240130,Eureka 87 Sky High penthouse with panoramic views,153517405,Jimin,,Melbourne,-37.82051749,144.9651839,Entire home/apt,1888,1,3,0.27,1,65,1
+535813,Smart Artz Gallery - Venue Hire,2633177,Sharon,,Melbourne,-37.81408274,144.9693336,Private room,1650,1,0,,1,365,1
+9396480,SPACIOUS CITY 6 BEDROOMS 3 BATH+VIEWS-SLEEPS 16-20,12197796,Nicole,,Melbourne,-37.81670173,144.983434,Entire home/apt,1395,1,13,0.49,7,356,1
+26306061,"12 bedded  Luxury Apts -sleeps 12
+Opposite Casino",12189664,Mark,,Melbourne,-37.82243189,144.9606477,Entire home/apt,1300,2,0,,3,92,1
+8282078,2 Storey Mansion for AFL Final w/e,25241737,Shannon,,Melbourne,-37.81608797,144.9901886,Entire home/apt,1101,2,0,,1,0,1
+2462099,Historical Kensington- 4km from CBD,12591445,Nicky And Sacha,,Melbourne,-37.79065785,144.9237005,Entire home/apt,999,3,57,0.99,2,364,1
+15572138,LUXICO - Berry St,11914644,Luxico Holiday Homes,,Melbourne,-37.81847276,144.9877088,Entire home/apt,1139,7,0,,73,119,1
+19811184,Spring St - Stunning Apartment with Sweeping City Views,11914644,Luxico Holiday Homes,,Melbourne,-37.81493352,144.9732869,Entire home/apt,1023,10,2,0.16,73,316,1
+16359110,VERVE APARTMENT SHORT TERM ACCOMDATION,107127376,Jesse,,Melbourne,-37.80643975,144.9620377,Private room,9000,30,0,,1,365,1
+14918171,Quest Caroline Springs 2 Bedroom Apartment,93746214,Quest,,Melton,-37.73033839,144.7430783,Entire home/apt,299,1,11,0.51,3,335,1
+4157611,Self-contained Rural Apartment,21574284,Anna,,Melton,-37.59352311,144.6764005,Entire home/apt,251,1,51,1.11,2,333,1
+14919410,Quest Caroline Springs 1 Bedroom Apartment,93746214,Quest,,Melton,-37.73042201,144.7409551,Entire home/apt,249,1,11,0.49,3,149,1
+12786423,Eagles on the Tenth-Play & Stay,39577532,Maria,,Melton,-37.79032341,144.5608911,Entire home/apt,170,1,32,1.04,1,347,1
+14918807,Quest Caroline Springs Studio Apartment,93746214,Quest,,Melton,-37.72971272,144.7414567,Entire home/apt,159,1,13,0.48,3,146,1
+21541316,Josephine Bed & Breakfast,156596380,Paul,,Melton,-37.58409571,144.6248018,Entire home/apt,150,1,73,5.59,1,231,1
+20796959,Sameer's,148869332,Sameer,,Melton,-37.70530978,144.7330633,Private room,150,1,1,0.18,1,179,1
+16755923,This property is no longer available.,39301617,Max,,Melton,-37.67384589,144.5857555,Entire home/apt,500,2,0,,1,88,1
+15989622,Classic 5BR 20mins Airport&CBD (Swimming Pool&Gym),103907347,Bo,,Melton,-37.73922997,144.7261693,Entire home/apt,450,2,23,0.92,3,339,1
+19170169,feel right at home,99145647,Dee,,Melton,-37.71260291,144.5569594,Entire home/apt,220,2,31,1.77,1,286,1
+8463341,Forevery,31816747,Caine,,Monash,-37.91956282,145.1113006,Entire home/apt,998,1,0,,1,0,1
+4950810,big room in clayton near monash uni,25518903,Prashanth,,Monash,-37.91724457,145.1277781,Private room,651,1,0,,1,0,1
+15000511,"Spacious,comfortable lovely house",81772437,Amy,,Monash,-37.86353683,145.1250232,Entire home/apt,300,1,26,1.07,2,110,1
+18375852,Luxury 4 Bedroom Townhouse in Glen Waverley,127259126,Xiaomei,,Monash,-37.87346136,145.1707932,Entire home/apt,270,1,27,1.44,3,354,1
+29597257,Super luxury home for center of glen all you need,156381779,Gina,,Monash,-37.88936022,145.1660963,Entire home/apt,450,2,0,,12,317,1
+21506086,Apartments Of Waverley 3 BR,20300233,Apartments Of Waverley,,Monash,-37.88216762,145.1678083,Entire home/apt,300,2,2,0.16,3,364,1
+11397161,"Beautiful, spacious renovated home",59807809,Emma,,Monash,-37.90174596,145.0811636,Entire home/apt,270,2,2,0.07,1,0,1
+4148805,Orange Serviced Apartment,21522373,Reservation,,Monash,-37.8813095,145.1602757,Entire home/apt,299,3,2,0.04,1,365,1
+20666676,Fantastic accommodation,52349881,Xiangrong,,Monash,-37.86576227,145.1205698,Entire home/apt,1188,7,1,0.07,1,363,1
+20348646,MCLaren in the Wave,67687160,Chhc,,Monash,-37.88050196,145.1130243,Entire home/apt,299,14,0,,1,28,1
+7550935,Perfect Racing Carnival Apartment,34161600,Karen,,Moonee Valley,-37.76942692,144.9256005,Entire home/apt,300,1,1,0.03,1,0,1
+13007541,"Convenience, Style & Comfort near the City",65804690,Sinead,,Moonee Valley,-37.74423829,144.9086013,Entire home/apt,300,1,0,,1,358,1
+21057950,Prime spring carnival location!,50884502,Jordan & Lauren,,Moonee Valley,-37.78500009,144.9210945,Entire home/apt,999,2,0,,1,0,1
+19464268,Stunning 3 bedroom House 5 minutes to Races,4806306,Jessica,,Moonee Valley,-37.78441089,144.9246561,Entire home/apt,700,2,0,,1,363,1
+7807519,Family home surrounded by parkland,5271511,Ann Marie,,Moonee Valley,-37.75842175,144.8902751,Entire home/apt,350,2,9,0.24,1,8,1
+17784479,A piece of Authentic Melbourne,6648479,Christine And James,,Moonee Valley,-37.77752663,144.9127926,Private room,260,2,6,0.32,5,0,1
+14730647,"2br Townhouse, near Racecourse and Showgrounds",91724207,Camille,,Moonee Valley,-37.77145223,144.9142075,Entire home/apt,251,2,9,0.34,2,362,1
+20998040,Essendon Escape 3Br 3Ba near Moonee Ponds,4177728,Chris,,Moonee Valley,-37.74897286,144.9130765,Entire home/apt,417,3,2,0.18,26,349,1
+20805914,River Frontage Home near Flemington Racecourse,108777721,Andrew,,Moonee Valley,-37.78363713,144.9031806,Entire home/apt,450,4,0,,1,0,1
+3150590,"So close to Flemington,10kms to CBD",15992224,Gabrielle,,Moonee Valley,-37.78752973,144.9039627,Private room,904,8,0,,1,0,1
+19289504,Bohemian cottage in the heart of Brunswick,17022374,Kyle,,Moreland,-37.76723939,144.9516047,Private room,599,1,0,,1,88,1
+6769395,The Escape-3 story townhouse in trendy Brunswick E,1533260,Ryan,,Moreland,-37.77911141,144.9762607,Entire home/apt,379,1,177,4.34,9,288,1
+1725821,2 Beautiful Houses - 1 property - Close to city!,8968154,Ramona,,Moreland,-37.74930415,144.9651481,Entire home/apt,862,2,76,1.24,2,318,1
+10210430,"Melbourne luxurious innercityhaven sleeps
+20",35277522,Angela,,Moreland,-37.76762436,144.9774324,Entire home/apt,580,3,18,0.54,1,344,1
+26288642,Entire home and garden in Brunswick 4km from city,11286241,Sarah,,Moreland,-37.772748,144.9652316,Entire home/apt,390,3,0,,1,63,1
+4997514,BEAUTIFUL 4 BEDROOM HOME!,8968154,Ramona,,Moreland,-37.7468626,144.9629359,Entire home/apt,471,5,10,0.22,2,314,1
+7756037,Large modern Brunswick Victorian...,39496463,Anthony,,Moreland,-37.77161053,144.9648505,Entire home/apt,390,5,0,,1,0,1
+20559436,Large Family Friendly home in Foodies delight.,43641620,Simone,,Moreland,-37.77283,144.9691723,Entire home/apt,379,5,2,0.17,1,0,1
+11871270,LUXICO - Brunswick House,11914644,Luxico Holiday Homes,,Moreland,-37.76727505,144.9460642,Entire home/apt,450,7,0,,73,32,1
+23809056,Large Brunswick luxury eco home - parkland haven,9234211,Katy,,Moreland,-37.76567968,144.9519898,Entire home/apt,410,7,0,,1,288,1
+6636337,"Stonehill Retreat - Private, Secluded, Luxury!",34735288,Jacqui,,Nillumbik,-37.60656543,145.2419318,Entire home/apt,251,1,13,0.42,2,343,1
+6708178,Jazzeta's two bedroom cottage,28206896,Judd,,Nillumbik,-37.66005647,145.2842365,Entire home/apt,226,1,97,2.3,1,314,1
+12522973,Pigeon Bank Country Cottage,13466625,Jacqui,,Nillumbik,-37.6966704,145.2223529,Entire home/apt,190,1,116,3.77,1,341,1
+9016912,The Linden Bed and Breakfast,32168222,Lyhn And Gordon,,Nillumbik,-37.69244341,145.1787092,Private room,190,1,11,0.32,1,221,1
+17048803,Sambar Studio Bed & Breakfast,5296670,Meghan,,Nillumbik,-37.63450905,145.2571781,Entire home/apt,186,1,47,2.24,1,170,1
+13364216,Fully self contained private retreat.,75849656,Scott And Jen,,Nillumbik,-37.62588212,145.2958389,Entire home/apt,180,1,297,11.17,1,290,1
+21002913,An Architectural Bush Retreat near Yarra Valley,6826423,Kent,,Nillumbik,-37.72327588,145.2343396,Entire home/apt,399,2,19,2.34,1,315,1
+10069894,St Andrews Retreat,27504139,Tracy,,Nillumbik,-37.60560516,145.2701455,Entire home/apt,305,2,0,,1,58,1
+6190654,Silky Oaks of Kangaroo Ground,20378364,Vikki,,Nillumbik,-37.65783232,145.2270249,Entire home/apt,352,3,1,0.03,2,365,1
+18100404,Picturesque 10acre homestead - Family Farmstay,112023293,Lauren,,Nillumbik,-37.67602667,145.2086036,Entire home/apt,300,4,4,0.22,1,0,1
+15330758,Fantastic Summer holiday apartment,96327795,Hayden,,Port Phillip,-37.86939135,144.9914449,Private room,1304,1,0,,1,364,1
+5436705,Port Melbourne Beachfront Apartment,28078147,James,,Port Phillip,-37.84050385,144.93584,Entire home/apt,1150,1,0,,1,0,1
+15470694,Stunning Spacious Heritage House LARGE GROUPS 30+,19139083,Jay,,Port Phillip,-37.85845943,144.9851789,Entire home/apt,1139,3,3,0.24,12,155,1
+4712396,Pole position for Grand Prix!,21997061,Corey,,Port Phillip,-37.83102673,144.9528646,Entire home/apt,999,3,0,,1,0,1
+1865611,Amazing 5-bedroom Melbourne Mansion,3407239,Jennifer,,Port Phillip,-37.87338107,144.981293,Entire home/apt,950,3,19,0.32,1,213,1
+982452,GRAND PRIX PERFECT,5382488,Will,,Port Phillip,-37.85376123,144.9621064,Entire home/apt,1024,4,0,,1,365,1
+1656742,Inner City Luxury Designer Home,5090138,Eva,,Port Phillip,-37.83163259,144.9464084,Entire home/apt,975,5,6,0.1,1,172,1
+13176101,LUXICO - Albert Road,11914644,Luxico Holiday Homes,,Port Phillip,-37.83755002,144.9647537,Entire home/apt,2475,7,1,0.09,73,327,1
+16674746,Melbourne Oasis,19666533,Scott,,Port Phillip,-37.83305045,144.9676283,Entire home/apt,2000,7,0,,1,365,1
+16581238,Amazing clean apartment,33196702,Ron,,Port Phillip,-37.84222113,144.9760252,Entire home/apt,1200,8,1,0.1,1,358,1
+22589975,Amity Apartment South Yarra,166117627,Campbell,,Stonnington,-37.83775859,144.9952386,Entire home/apt,1737,1,2,0.18,1,340,1
+4380508,Stunning Victorian Terrace House ,22417514,Michele,,Stonnington,-37.84799762,145.0023029,Entire home/apt,999,5,0,,1,0,1
+18616589,LUXICO - Armadale Pavilion,11914644,Luxico Holiday Homes,,Stonnington,-37.85206691,145.0203538,Entire home/apt,2445,7,0,,73,22,1
+16114270,LUXICO - The Cosmopolitan,11914644,Luxico Holiday Homes,,Stonnington,-37.83703899,144.9998459,Entire home/apt,2252,7,0,,73,0,1
+4767182,LUXICO - Chesterfield Ave (Malvern),11914644,Luxico Holiday Homes,,Stonnington,-37.84563092,145.0322458,Entire home/apt,1996,7,0,,73,344,1
+15073071,LUXICO - Bonview,11914644,Luxico Holiday Homes,,Stonnington,-37.85268859,145.0380675,Entire home/apt,1650,7,0,,73,38,1
+16724925,LUXICO - Lansell Paris,11914644,Luxico Holiday Homes,,Stonnington,-37.83327302,145.019988,Entire home/apt,1501,7,0,,73,364,1
+16739775,LUXICO - Lansell Manhattan,11914644,Luxico Holiday Homes,,Stonnington,-37.83273211,145.0201913,Entire home/apt,1485,7,0,,73,358,1
+29339278,LUXICO - Como Park House,11914644,Luxico Holiday Homes,,Stonnington,-37.834301,145.001242,Entire home/apt,1275,7,0,,73,127,1
+21517755,LUXICO - Armadale Retreat,11914644,Luxico Holiday Homes,,Stonnington,-37.8534804,145.0217063,Entire home/apt,1232,7,0,,73,45,1
+5320390,Donvale Townhouse for Rental,27565567,Pohchoon,,Whitehorse,-37.80403329,145.1755352,Entire home/apt,300,1,0,,1,0,1
+11534191,BHG Box Hill Getaway Exotic style,25815514,David,,Whitehorse,-37.82274278,145.1145805,Private room,280,1,0,,1,365,1
+16198676,"Style, Space and Comfort",105792830,Ivy,,Whitehorse,-37.8027296,145.1236593,Entire home/apt,245,1,8,0.33,1,0,1
+11150157,A Classic Weatherboard Home,57974749,Eleanor,,Whitehorse,-37.85266834,145.1365181,Entire home/apt,496,2,0,,1,0,1
+20429137,Whitehorse Towers 2bedroom Self service  Apartment,40551389,Rs,,Whitehorse,-37.81652946,145.1184376,Entire home/apt,264,2,1,0.09,1,362,1
+15648596,Cedar House -Netflix Parking 24hr shops,46326008,Nicole,,Whitehorse,-37.85309243,145.1462062,Entire home/apt,230,2,48,1.95,1,316,1
+18480306,Modern & light. close to cafes,126402513,Ruth,,Whitehorse,-37.80055977,145.1067327,Entire home/apt,299,3,4,0.23,1,59,1
+4137549,Gorgeous 4 bedroom family home,15842581,Corie,,Whitehorse,-37.8331761,145.1052691,Entire home/apt,260,3,7,0.15,1,10,1
+15542656,"Stylish, Stunning, Spacious Home",4121237,Celeste,,Whitehorse,-37.80699742,145.1127467,Entire home/apt,251,4,8,0.34,1,341,1
+12910225,near boxhill& doncaster beautiful private room,19776914,Corinna,,Whitehorse,-37.80012408,145.1100749,Private room,1383,365,0,,1,362,1
+19121889,Brand New 3 Bedroom House,133632611,Zhen,,Whittlesea,-37.50953273,145.1394827,Private room,228,1,11,0.61,2,179,1
+20983190,Bluestone Farm Cottage 19th Century - 3BR w/ View,19069648,Maggie,,Whittlesea,-37.59440845,145.0688256,Entire home/apt,210,1,34,2.41,1,350,1
+16695092,Resort style living,20708352,Billy,,Whittlesea,-37.69135571,145.0506232,Private room,208,1,0,,1,365,1
+20933868,Velika - Studio 2 with private En-sute,150496037,Velika,,Whittlesea,-37.48960945,145.1815757,Private room,130,1,0,,2,88,1
+18568506,Merri Veiw,51767070,K,,Whittlesea,-37.48259535,145.0145162,Entire home/apt,302,2,0,,1,89,1
+3075743,VILLA ATARHI 20 - MELBOURNE 4Bdrm,15651267,Serviced Houses Australia,,Whittlesea,-37.66122063,144.9883741,Entire home/apt,235,2,9,0.22,26,346,1
+16167099,VILLA ATARHI 22  - MELBOURNE 4Bdrm,15651267,Serviced Houses Australia,,Whittlesea,-37.66566868,144.9858172,Entire home/apt,235,2,5,0.26,26,356,1
+17139882,"Chic, Modern Family Friendly House with Secure Garden",115217632,Bejay,,Whittlesea,-37.58989849,145.1284116,Entire home/apt,145,2,52,2.36,1,319,1
+21429355,Brand new townhouse located in Lalor,153104898,Ying,,Whittlesea,-37.6722791,145.02264,Entire home/apt,199,3,10,0.77,3,166,1
+18248482,A true family home - close to RMIT,126090478,Peng,,Whittlesea,-37.68638679,145.0552069,Private room,170,5,0,,1,0,1
+12138041,Luxury Celebrity Style House,65159547,Karan,,Wyndham,-37.85578769,144.7376635,Entire home/apt,2000,1,0,,1,363,1
+18060538,"Residential area. 20min to CBD. 
+Separate bathroom",124306387,Chamitha,,Wyndham,-37.91949741,144.746997,Private room,522,1,0,,1,365,1
+29594947,4BR Luxe  House 25 mins to Melbourne CBD/Airport,99346216,Robert,,Wyndham,-37.88311402,144.7306344,Entire home/apt,350,1,4,3.53,1,344,1
+21371999,"Stunning Luxury house 5 BED 5 BATH, 20mins to CBD",31330797,Maxgan,,Wyndham,-37.86597807,144.7357384,Entire home/apt,359,2,36,2.66,1,305,1
+20666960,20 Constellation Circuit. Luxury double storey.,103297994,Quoc,,Wyndham,-37.84994402,144.7423794,Entire home/apt,359,2,22,1.91,1,341,1
+20127228,Luxury Waterfront House,73001533,Alicia,,Wyndham,-37.90316524,144.7774252,Entire home/apt,295,2,8,0.68,1,337,1
+6748080,"VILLA de MARSEILLES - WiFi, Great for Groups",15651267,Serviced Houses Australia,,Wyndham,-37.89263917,144.7471184,Entire home/apt,287,2,7,0.32,26,338,1
+19557439,Melbourne Lakeside Resort 5BR&4.5BATH,22965385,Lucy & Yong,,Wyndham,-37.89906182,144.7696027,Entire home/apt,280,2,8,0.47,5,250,1
+16071598,Melbourne Luxury Waterfront House 5 BRM,22965385,Lucy & Yong,,Wyndham,-37.8997076,144.7696297,Entire home/apt,341,3,6,0.3,5,174,1
+21572836,"Enjoy Outdoor Jacuzzi,Sauna,Fireplace,
+BBQ & Pizza",23359874,Debra,,Wyndham,-37.89130154,144.7228246,Entire home/apt,498,7,0,,11,364,1
+21000155,Sunfilled bedroom in Collingwood,24775432,Vale & Ben,,Yarra,-37.79536732,144.9916444,Private room,660,1,1,0.07,1,365,1
+4192637,The Nunnery Guesthouse 21 guests,21753170,Nicky,,Yarra,-37.80106445,144.9751861,Entire home/apt,1800,2,16,0.35,1,357,1
+18429643,Richmond Hill Cottage,1649158,A Perfect Stay,,Yarra,-37.82529486,144.9980304,Entire home/apt,1045,2,4,0.22,7,0,1
+21142212,Stones throw from the MCG,42329036,Gary,,Yarra,-37.82317867,144.9977071,Entire home/apt,999,2,0,,1,0,1
+17682613,Grand View Terrace,12246840,Jane,,Yarra,-37.78807055,144.9794038,Entire home/apt,800,3,9,0.67,1,147,1
+19457641,Large Penthouse in the heart of Fitzroy,1801270,Jon,,Yarra,-37.79662695,144.977276,Entire home/apt,695,3,28,1.63,1,303,1
+9205415,Walking distance Olympic Park & MCG,47878981,Catherine,,Yarra,-37.82445355,145.0041607,Entire home/apt,850,4,1,0.03,1,0,1
+17353869,Architecturally Designed Apartment with Custom-Made Finishes,117251623,Paloma,,Yarra,-37.79918473,144.9824998,Entire home/apt,651,4,6,0.28,1,289,1
+1861584,Architectural home in Richmond with plunge pool,9710767,Simon,,Yarra,-37.8282865,144.9942539,Entire home/apt,995,5,1,0.11,1,365,1
+20459184,LUXICO - Richmond Penthouse,11914644,Luxico Holiday Homes,,Yarra,-37.82262461,144.991095,Entire home/apt,676,7,0,,73,320,1
+12100235,"Healesville Garden Grandview 
+(10 Bedroom House)",64874108,Michelle,,Yarra Ranges,-37.65504216,145.5162673,Entire home/apt,1899,1,12,0.4,3,322,1
+7440088,Mt. Morton Camp & Conference Centre,30758933,Shane,,Yarra Ranges,-37.92609594,145.3445464,Entire home/apt,1200,1,1,0.13,1,128,1
+12857155,Wiggley Bottom Farm Whole Property,5205726,Gillie,,Yarra Ranges,-37.69964934,145.5263939,Entire home/apt,1049,1,0,,4,336,1
+5530844,Big Yarra View - Simply Amazing,28681721,Toby,,Yarra Ranges,-37.69200205,145.4902595,Entire home/apt,940,1,5,0.15,1,302,1
+13580006,"Healesville Garden B&B 
+(6 Bedroom House)",64874108,Michelle,,Yarra Ranges,-37.65584472,145.51525,Entire home/apt,900,1,18,0.64,3,325,1
+13379481,"Healesville Garden Retreat
+(6 Bedroom House)",64874108,Michelle,,Yarra Ranges,-37.6551593,145.5184117,Entire home/apt,900,1,15,0.58,3,33,1
+11462936,Mount View Estate - Pure Indulgence,60295295,Jane,,Yarra Ranges,-37.79927078,145.6093497,Entire home/apt,1501,2,8,0.24,1,308,1
+6453619,The George @ Yering,33702635,Yering Farm Wines,,Yarra Ranges,-37.6976728,145.389035,Entire home/apt,1501,2,3,0.23,1,335,1
+14970200,8acre Dandenong Ranges GrandEscape,19139083,Jay,,Yarra Ranges,-37.8813829,145.3614646,Entire home/apt,1015,2,42,1.64,12,322,1
+21451219,"Birch House at Jody's Ridge, Yarra Glen",145593200,Alison,,Yarra Ranges,-37.5999501,145.3713481,Entire home/apt,900,2,8,0.59,4,317,1

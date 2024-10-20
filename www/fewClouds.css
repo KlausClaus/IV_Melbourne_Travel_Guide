@@ -1,0 +1,36 @@
+@keyframes cloudMove {
+    0% {
+        left: -200px;
+    }
+    100% {
+        left: 100%;
+    }
+}
+
+body.few-clouds {
+    background-color: #AEDFF7; /* 蓝天背景 */
+    position: relative;
+    overflow: hidden; /* 隐藏超出的云朵 */
+}
+
+body.few-clouds::before, body.few-clouds::after {
+    content: '';
+    position: absolute;
+    background: url('https://images.app.goo.gl/1pcYTjurMs2fLVN27') no-repeat; /* 使用云朵的图片 */
+    width: 200px; /* 云朵宽度 */
+    height: 100px; /* 云朵高度 */
+    animation: cloudMove 30s infinite linear; /* 让云朵持续移动 */
+    opacity: 0.7; /* 云朵的透明度 */
+}
+
+body.few-clouds::before {
+    top: 50px; /* 第一片云的垂直位置 */
+    left: -200px; /* 云的起始位置 */
+    animation-delay: 5s; /* 云朵出现的延迟 */
+}
+
+body.few-clouds::after {
+    top: 150px; /* 第二片云的垂直位置 */
+    left: -400px; /* 云的起始位置 */
+    animation-delay: 10s; /* 云朵出现的延迟 */
+}
